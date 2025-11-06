@@ -1,0 +1,43 @@
+.git/
+.idea/
+__MACOSX/
+__pycache__/
+config/*.txt
+drawn_1119/
+gpu/
+wandb/
+temp_save/
+save_save/
+plot/
+main/wandb/
+neuralop_base0/
+neuralop_advance0/
+enable_offload.py
+
+
+
+#all path
+et --hard 2fa2eb8
+*.txt
+*.doc
+*.docx
+*.pyc
+*.m
+*.DS_Store
+*.mat
+*.npy
+*.png
+*.jpg
+*.pt
+*tar.gz
+kf/model_save/*.pt
+*.zip
+*.xlsx
+*.pdf
+*.pptx
+
+#root path
+/te*.py
+temp*.py
+tmp*.py
+for_debug.py
